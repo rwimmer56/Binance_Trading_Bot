@@ -120,13 +120,10 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
+.Binance_Trading_Env
+Binance_Trading_Env/
+Binance_Trading_Env/
+Binance_Trading_Env.bak/
 
 # Spyder project settings
 .spyderproject
